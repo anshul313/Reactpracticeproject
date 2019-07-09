@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 2rem;
+  font-family: sans-serif;
+  background-image: url("ocean.jpg");
+}
+
+.active{
+  color:red;
+}
