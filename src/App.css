@@ -1,6 +1,12 @@
 .App {
   text-align: center;
-  background-image: url("ocean.jpg");
+  background-image: url("./bg.jpg");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {
@@ -18,16 +24,40 @@
 .App-title {
   font-size: 1.5em;
 }
+.d-blockw-100 {
+  width: 800px;
+  height: 400px;
+  padding: 50px;
 
+
+}
 .App-intro {
   font-size: large;
 }
 h1{
-  background-image: url("ocean.jpg");
+  background-image: url("");
 }
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.LoginFacebook{
+  padding-left: 110px;
+  padding-top: 50px;
 
+}
+.login{
+  width: 1100px;
+  padding-left: 535px;
+  padding-top: 20px;
+}
+
+.LoginGoogle{
+  padding-left: 110px;
+  padding-top: 0px;
+}
+.mr-auto{
+  padding-left: 50px;
+  padding-right: 100px;
+}

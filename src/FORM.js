@@ -23,7 +23,7 @@ class FORM extends React.Component {
 					console.log("in result");
 					this.setState({
 						isLoaded: true,
-						items: result.data.items
+						items: result.data
 					});
 				},
 				// Note: it's important to handle errors here
