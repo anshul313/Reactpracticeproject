@@ -23,23 +23,6 @@ class Home extends Component {
 
 	constructor(props) {
 		super(props);
-		this.state = {
-			people: [{
-				title: "first title",
-				imgsrc: "https://images.pexels.com/photos/236048/pexels-photo-236048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-				subtitle: "first subtitle",
-				text: "my first text"
-			}, {
-				title: "second title",
-				imgsrc: "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-				subtitle: "second subtitle",
-				text: "my second text"
-			}, {
-				title: "third title",
-				subtitle: "third subtitle",
-				text: "my third text"
-			}]
-		}
 		let loggedIn = true;
 		const token = localStorage.getItem("token");
 
@@ -61,7 +44,7 @@ class Home extends Component {
 		}
 		let people = [{
 			title: "first title",
-			imgsrc: "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "https://images.pexels.com/photos/236048/pexels-photo-236048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
 			subtitle: "first subtitle",
 			text: "my first text"
 		}, {
@@ -71,7 +54,7 @@ class Home extends Component {
 			text: "my second text"
 		}, {
 			title: "third title",
-			imgsrc: "https://images.pexels.com/photos/236049/pexels-photo-236049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "https://images.pexels.com/photos/236048/pexels-photo-236048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
 			subtitle: "third subtitle",
 			text: "my third text"
 		}, {

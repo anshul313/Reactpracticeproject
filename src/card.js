@@ -8,10 +8,13 @@ import {
 }
 from 'react-router-dom';
 import {
-	Navbar, Nav, NavDropdown, FormControl, Form, Button, Card
+	Navbar, Nav, NavDropdown, FormControl, Form, Button
 }
 from 'react-bootstrap';
-
+import {
+	Card
+}
+from 'react-bootstrap';
 
 class card extends Component {
 
