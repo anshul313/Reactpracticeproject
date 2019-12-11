@@ -44,42 +44,42 @@ class Home extends Component {
 		}
 		let people = [{
 			title: "first title",
-			imgsrc: "https://images.pexels.com/photos/236048/pexels-photo-236048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/a.jpeg",
 			subtitle: "first subtitle",
 			text: "my first text"
 		}, {
 			title: "second title",
-			imgsrc: "https://images.pexels.com/photos/236048/pexels-photo-236048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/b.jpeg",
 			subtitle: "second subtitle",
 			text: "my second text"
 		}, {
 			title: "third title",
-			imgsrc: "https://images.pexels.com/photos/236048/pexels-photo-236048.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/c.jpeg",
 			subtitle: "third subtitle",
 			text: "my third text"
 		}, {
 			title: "four title",
-			imgsrc: "https://images.pexels.com/photos/236050/pexels-photo-236050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/d.jpeg",
 			subtitle: "four subtitle",
 			text: "my four text"
 		}, {
 			title: "five title",
-			imgsrc: "https://images.pexels.com/photos/236051/pexels-photo-236051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/d.jpeg",
 			subtitle: "five subtitle",
 			text: "my five text"
 		}, {
 			title: "six title",
-			imgsrc: "https://images.pexels.com/photos/236045/pexels-photo-236045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/c.jpeg",
 			subtitle: "six subtitle",
 			text: "my six text"
 		}, {
 			title: "seven title",
-			imgsrc: "https://images.pexels.com/photos/236053/pexels-photo-236053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/b.jpeg",
 			subtitle: "seven subtitle",
 			text: "my seven text"
 		}, {
 			title: "eight title",
-			imgsrc: "https://images.pexels.com/photos/236054/pexels-photo-236054.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			imgsrc: "/images/a.jpeg",
 			subtitle: "eight subtitle",
 			text: "my eight text"
 		}]
