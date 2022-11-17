@@ -15,7 +15,7 @@
     "react-facebook-login": "^4.1.1",
     "react-google-login": "^5.0.7",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.5",
+    "react-scripts": "5.0.1",
     "react-sidebar": "^3.0.2",
     "react-sidenav": "^4.0.6",
     "react-video-players": "^0.1.11",
